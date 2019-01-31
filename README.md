@@ -1,24 +1,19 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h1>Projet : FreeDoc</h1>
 
-Things you may want to cover:
+<h2>Création de BD pour un site de docteur</h2>
 
-* Ruby version
 
-* System dependencies
+<ul>
+  <li>Création de 3 BD</li>
+    <ul>
+      <li>Appointments</li>
+      <li>Doctors</li>
+      <li>Patients</li>
+    </ul>
 
-* Configuration
+  <li>Connexion de 'Doctors' et de 'Patients' dans 'Appointments'</li>
+  <li>Création d'un seed x10 pour des RDV</li>
+</ul>
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  <img src="https://www.thehackingproject.org/packs/packs/static_pages/assets/images/logo_black-3d6bec995368618a7e9f44536410ae0a.png" alt="logoTHP">
